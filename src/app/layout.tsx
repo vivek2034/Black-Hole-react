@@ -5,10 +5,11 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://black-hole-react-zkra.vercel.app/'),
   title: 'Cosmic Explorer | Black Hole Research',
   description: 'Advanced scientific exploration of cosmic phenomena',
   keywords: ['black holes', 'astrophysics', 'cosmology', 'space'],
-  authors: [{ name: 'Dr. Alan Grant' }],
+  authors: [{ name: 'VIVEK' }],
   creator: 'Cosmic Explorer',
   publisher: 'Cosmic Explorer',
   robots: 'index, follow',
